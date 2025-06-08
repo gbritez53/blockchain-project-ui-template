@@ -3,6 +3,7 @@
 Este proyecto es una plantilla moderna para sitios web SaaS con temática oscura, ideal para aplicaciones relacionadas con blockchain y tecnología.
 
 ## ✨ Características
+
 - 🎨 Diseño oscuro y elegante
 - ⚛️ Componentes reutilizables con React y Tailwind CSS
 - 🖼️ Efectos visuales personalizados (esquinas recortadas, bordes SVG)
@@ -10,6 +11,7 @@ Este proyecto es una plantilla moderna para sitios web SaaS con temática oscura
 - 🔧 Fácil de personalizar y escalar
 
 ## 🗂️ Estructura del Proyecto
+
 ```
 ├── public/
 │   └── assets/
@@ -25,10 +27,11 @@ Este proyecto es una plantilla moderna para sitios web SaaS con temática oscura
 ```
 
 ## ⚡ Instalación
+
 1. 🌀 Clona el repositorio:
    ```bash
    git clone <repo-url>
-   cd frontend-tribe-dark-saas-blockchain-site-template
+   cd blockchain-project-ui-template
    ```
 2. 📦 Instala las dependencias:
    ```bash
@@ -44,14 +47,17 @@ Este proyecto es una plantilla moderna para sitios web SaaS con temática oscura
    ```
 
 ## 🛠️ Personalización
+
 - ✏️ Modifica los archivos en `src/sections/` y `src/components/` para adaptar el contenido.
 - 🎨 Cambia los estilos en `src/styles/global.css` o ajusta la configuración de Tailwind.
 - 🖼️ Reemplaza imágenes y SVGs en `public/assets/images/` según tu branding.
 
 ## 📜 Scripts útiles
+
 - `dev`: Inicia el servidor de desarrollo
 - `build`: Genera la versión de producción
 - `preview`: Previsualiza la build de producción
 
 ## 🪪 Licencia
+
 MIT
